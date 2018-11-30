@@ -8,3 +8,5 @@ The need for this program suite is I feel because of the poor quality and lack o
 handling programs as found on various different types of instrument. Often excellent instruments are rendered almost
 useless by bad data manipulation programs hiding behind proprietry data formats etc.
 
+Using Python for the interface I hope to create a program that can be run as a stand alone program with a graphical user interface, and a package that can be used in python to facilitate spectral manipulation and analysis in a batch mode.
+
